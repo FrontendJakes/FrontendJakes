@@ -9,3 +9,4 @@
 - 😄 Pronouns: Not particularly fuzzed about Pronouns but I was born Male.
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrontendJakes&theme=radical)
