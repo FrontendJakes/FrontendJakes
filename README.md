@@ -1,7 +1,6 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/b4ab9TBk9Ornvrt9W8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-halo-guardian-master-chief-b4ab9TBk9Ornvrt9W8">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Jaco McCarthy</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/xFUGScgp7V8AAAAC/computer-code.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frontendjakes&label=Profile%20views&color=0e75b6&style=flat" alt="frontendjakes" /> </p>
 
